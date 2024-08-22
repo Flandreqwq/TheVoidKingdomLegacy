@@ -1,0 +1,9 @@
+name: TheVoidKingdom
+version: '4.9.5-qwq'
+main: flandre.scarlet.thevoidkingdom.TheVoidKingdom
+api-version: 1.18
+depend:
+  - PlaceholderAPI
+  - NBTAPI
+  - MythicMobs
+  - ItemsAdder
